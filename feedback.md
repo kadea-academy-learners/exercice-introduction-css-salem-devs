@@ -1,7 +1,7 @@
 # 🎯 **FEEDBACK DÉTAILLÉ - INTRODUCTION À CSS**
 
-**Exercice :** 2025-dev3-soir-c-vdl-exercice-introduction-a-css-Exercice-introduction-css-template
-**Date d'analyse :** 15/07/2025 à 13:47
+**Exercice :** exercice-introduction-css-salem-devs
+**Date d'analyse :** 16/07/2025 à 23:08
 **Analysé par :** Coach Web Design - Validation Pédagogique
 
 ---
@@ -10,9 +10,13 @@
 
 📁 **Fichiers analysés :**
 - 🎨 `./style.css`
+- 🎨 `./exercice_style.css`
 - 📄 `./index.html`
+- 📄 `./exercice.html`
 
 ### 📄 **Analyse détaillée de `./style.css`**
+
+### 📄 **Analyse détaillée de `./exercice_style.css`**
 
 ### � **Vérification des styles inline dans le HTML**
 
@@ -82,5 +86,5 @@
 
 ---
 
-🎓 **Feedback généré automatiquement le 15/07/2025 à 13:47**
+🎓 **Feedback généré automatiquement le 16/07/2025 à 23:08**
 📧 **Questions ?** Contactez votre formateur pour des explications détaillées.
